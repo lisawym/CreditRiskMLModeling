@@ -1,11 +1,3 @@
-# CreditRiskMLModeling
-
-This 
-Please check our [Kaggle Notebook](https://www.kaggle.com/code/lisa0910/fin789-group1) for the latest code
-
-
-
-
 # MATH 789/ IDS 789 Group Project - Fall 2023a
 
 Welcome to the group project repository for the course [the Fundamentals of Finance Business Models course](https://datascience.duke.edu/math-789-ids-789-fundamentals-of-finance-business-models/) at Duke University in Fall 2023. This is Group 1, consisting of five team members: Cassie, Junghwa, Larry, Suhyeon, and Lisa.
