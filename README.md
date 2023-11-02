@@ -1,6 +1,6 @@
 # MATH 789/ IDS 789 Group Project - Fall 2023
 
-Welcome to the group project repository for the course [Fundamentals of Finance Business Models course](https://datascience.duke.edu/math-789-ids-789-fundamentals-of-finance-business-models/) at Duke University in Fall 2023. This is Group 1, consisting of five team members: Cassie(@cassiekang), Junghwa(@ash-jhj), Larry, Suhyeon, and Lisa(@lisawym).
+Welcome to the group project repository for the course [Fundamentals of Finance Business Models course](https://datascience.duke.edu/math-789-ids-789-fundamentals-of-finance-business-models/) at Duke University in Fall 2023. This is Group 1, consisting of five team members: Cassie(@cassiekang), Junghwa(@ash-jhj), Larry, Suhyeon, and Lisa( @lisawym ).
 
 ## Project Overview
 
